@@ -1,0 +1,38 @@
+
+
+  #divpai {
+             
+    background-color:  #bd2b7e;
+    height: 800px ;
+    width: 400px;
+      
+}
+
+#divfilha{
+    background-color: #14addb;
+    width: 90%;
+    height: 65%; 
+    color: orange;
+    font-size: 200px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+#texto{
+
+    background-color: greenyellow;
+}
+
+#divcinza{
+    
+    width:90%;
+    height: 20vh;
+    background-color: rgb(112, 98, 63);
+
+}
+#divfilhacinza {
+
+    width: 10vw;
+    height: 20%;
+    background-color: rgb(21, 64, 82);
+}
